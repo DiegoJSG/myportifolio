@@ -28,7 +28,7 @@ const Home = () => {
          </div>
         {/* midias sociais */}  
           <div className="flex flex-col xl;flex-row items-center gap-8">
-          <a href="https://drive.google.com/file/d/1sNP6uPIcyJJ8Wny7JhkpaH6SQtyB1fYN/view?usp=sharing" 
+          <a href="https://drive.google.com/file/d/1AVhF2F0nFGIj_uY_QpwPpaQbju9X7SDf/view?usp=sharing" 
             target="_blank" rel="noopener noreferrer">
             <Button 
             variant="outline" 
